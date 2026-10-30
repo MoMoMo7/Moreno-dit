@@ -1,0 +1,6 @@
+{
+  "name": "Moreno dit...",
+  "description": "Application interactive pour écouter des mots et des phrases en français et apprendre à les épeler lettre par lettre.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

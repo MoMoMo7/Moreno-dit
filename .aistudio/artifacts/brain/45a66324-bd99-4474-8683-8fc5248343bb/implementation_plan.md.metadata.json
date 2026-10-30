@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan d'architecture et de mise en œuvre pour l'application d'écoute et d'épellation en français (Épelle-Moi & Écoute). Couvre le moteur de synthèse vocale française (Web Speech API et décomposition phonétique/épellation lettre par lettre avec accents), les modes interactifs (Mode Découverte & Écoute, Mode Épellation Guidée, Mode Dictée Interactive avec clavier virtuel d'accents français), la gestion des listes thématiques (mots courants, animaux, voyage, gastronomie, expressions et phrases complètes) ainsi que l'ajout personnalisé et le suivi de progression.",
+  "updatedAt":  "2026-10-30T16:24:15.701997098Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
